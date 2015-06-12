@@ -1,4 +1,4 @@
-package activity;
+package com.activity;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -7,7 +7,8 @@ import util.HttpCallbackListener;
 import util.HttpUtil;
 import util.Utility;
 
-import com.example.coolweather.R;
+//import com.example.coolweather.R;
+import com.activity.R;
 
 import model.City;
 import model.CoolWeatherDB;
